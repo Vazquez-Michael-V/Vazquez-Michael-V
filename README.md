@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Michael Vazquez!
-- 👀 I’m interested in data analysis and dashboarding.
+- 🧠 I’m interested in data analysis and dashboarding.
 - 🌱 I’m currently advancing my skills in Python and PostgreSQL. 
 - 📖 Python popular libraries I've worked with: Pandas, Numpy, Seaborn, Matplotlib, Selenium, Plotly, Dash, and Openpyxl.
 - 📑 Python popular libraries on my list to learn: Scikit-learn, SciPy, OpenCV, NLTK, and NetworkX.
