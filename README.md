@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Michael Vazquez!
-- 🧠 I’m interested in economics, mathematics, statistics, data analysis, and dashboarding. Currently pursuing masters in economics.
+- 🧠 I’m interested in economics, mathematics, statistics, data analysis, and dashboarding. Currently obtaining masters in economics.
 - 🌱 Advancing my skills in Python and PostgreSQL, always more to learn!
 - 📖 Python popular libraries I've worked with: Pandas, Numpy, GeoPandas, SciPy, Seaborn, Matplotlib, Selenium, Requests, Plotly, Dash, and Openpyxl.
 - 📑 Python popular libraries on my list to learn: Scikit-learn, OpenCV, and NetworkX.
