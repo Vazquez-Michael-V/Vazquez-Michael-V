@@ -3,5 +3,5 @@
 - 🌱 Advancing my skills in Python and PostgreSQL, always more to learn!
 - 📖 Python popular libraries I've worked with: pandas, numpy, statsmodels, Scikit-learn, Matplotlib, seaborn, GeoPandas, Requests, Plotly, Dash, Selenium, and others.
 - 📑 Python popular libraries on my list to learn: OpenCV and NetworkX.
-- :electron: I occasionally post projects for fun here on my Github, along with code for my masters coursework.
+- :electron: I post my master's coursework, portfolio projects, and projects for fun.
 - 🤙 Connect with me on LinkedIn: https://www.linkedin.com/in/vazquez-michael-v
