@@ -1,6 +1,6 @@
 # Hi, I'm Michael Vazquez.
 
-Master's student in Economics with a focus in econometrics and time series forecasting. Undergrad in mathematics, knowledgeable across several fields including probability theory, stochastic processes, linear algebra, graph theory, real analysis, and differential geometry.
+Master's student in Economics with a focus in econometrics and time series forecasting. Undergrad in mathematics, knowledgeable across several fields including probability theory, stochastic processes, linear algebra, graph theory, applied calculus (optimization, differential equations), real analysis, and differential geometry.
 
 **5+ years of professional data analysis experience:** Python, SQL, Databricks, and Tableau
 
