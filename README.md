@@ -2,7 +2,7 @@
 
 Master's student in Economics with a focus in econometrics and time series forecasting. Undergrad in mathematics, knowledgeable across several fields including probability theory, stochastic processes, linear algebra, graph theory, applied calculus (optimization, differential equations), real analysis, and differential geometry.
 
-**6+ years of professional data analysis experience.** Primary tools: Python, SQL, Databricks, and Tableau
+**7+ years of professional data analysis experience.** Primary tools: Python, SQL, Databricks, and Tableau
 
 **Python libraries:** pandas, NumPy, statsmodels, scikit-learn, Matplotlib, seaborn, GeoPandas, PySpark, Requests, Dash, Plotly, Selenium, and others
 
